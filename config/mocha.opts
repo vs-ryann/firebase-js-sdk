@@ -1,0 +1,4 @@
+--timeout 20000
+--retry 3
+--reporter spec
+--exit
